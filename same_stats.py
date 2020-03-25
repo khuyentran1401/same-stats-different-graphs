@@ -490,4 +490,4 @@ if __name__ == '__main__':
     frames[0].save("/Users/khuyentran/Desktop/Data_Viz/SameStatsCode/png_to_gif.gif", format='GIF',
                append_images=frames[1:],
                save_all=True,
-               duration=100, loop=0)
+               duration=700, loop=0)
