@@ -16,7 +16,7 @@ To turn a dinosaur shape into a bull eye shape, type:
 python -m same_stats --shape_start=dino --shape_end=bullseye
 ```
 And a GIF like below will be saved to the `gifs` directory as `dino_bullseye.gif`:
-![gif](https://github.com/khuyentran1401/same-stats-different-graphs/tree/master/gifs/dino_bullseye.gif)
+![gif](https://github.com/khuyentran1401/same-stats-different-graphs/blob/master/gifs/dino_bullseye.gif?raw=True)
 
 Argument options:
 * `--shape_start`: Shape start
