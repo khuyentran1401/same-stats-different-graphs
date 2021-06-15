@@ -2,7 +2,7 @@
 
 A Python tool to create datasets whose graphs are different from one another but their statistics are the same. This is a modified version of the code provided at [Autodesk](https://www.autodesk.com/research/publications/same-stats-different-graphs). 
 
-This library makes it easy for you to turn one shape to another and create GIFs for this transformation on the command line.
+This library makes it easy for you to turn one shape into another and create GIFs for this transformation on the command line.
 
 ## Installation
 To install the package, type:
