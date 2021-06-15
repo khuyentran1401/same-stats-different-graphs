@@ -19,9 +19,9 @@ And a GIF like below will be saved to the `gifs` directory as `dino_bullseye.gif
 ![gif](https://github.com/khuyentran1401/same-stats-different-graphs/blob/master/gifs/dino_bullseye.gif?raw=True)
 
 Argument options:
-* `--shape_start`: Shape start
+* `--shape_start`: Shape start. 
     Options: `dino`, `rando`, `slant`, `big_slant`
-* `--shape_end`: Target shape
+* `--shape_end`: Target shape. 
     Options: `x`, `h_lines`, `v_lines`, `wide_lines`, `high_lines`,`slant_up`, `slant_down`, `center`, `star`, `down_parab`, `circle`,`bullseye`, `dots`
 * `--iters`: Number of iteration
 * `--decimals`: Number of decimals

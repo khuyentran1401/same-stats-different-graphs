@@ -8,6 +8,7 @@ repository = "https://github.com/khuyentran1401/same-stats-different-graphs"
 keywords = ["statistics", "graphs", "data visualization"]
 readme = "README.md"
 license = "Apache-2.0"
+exclude = ["__pycache__", ".config"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
@@ -21,3 +22,4 @@ seaborn = "^0.11.1"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
