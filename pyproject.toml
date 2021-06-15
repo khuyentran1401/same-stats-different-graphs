@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "same-stats"
+version = "0.1.0"
+description = "A tool to create datasets with different graphs but the same statistics"
+authors = ["khuyentran1401 <khuyentran1476@gmail.com>"]
+homepage = "https://github.com/khuyentran1401/same-stats-different-graphs"
+repository = "https://github.com/khuyentran1401/same-stats-different-graphs"
+keywords = ["statistics", "graphs", "data visualization"]
+readme = "README.md"
+license = "Apache-2.0"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+PyTweening = "1.0.3"
+tqdm = "^4.61.1"
+matplotlib = "^3.4.2"
+seaborn = "^0.11.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
